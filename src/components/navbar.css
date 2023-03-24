@@ -1,0 +1,63 @@
+.nav {
+    display: inline-block;
+    margin-right: 200px;
+    color: black;
+    padding-top: 10px;
+}
+
+#contact {
+    margin-right: 0;
+}
+
+#h1 {
+    text-align: center;
+}
+
+#main {
+    background-color: lightblue;
+    text-align: center;
+    height: 50px;
+    padding: 25px;
+    width: fit-content;
+    margin: auto;
+}
+
+#content {
+    display: inline-block;
+    margin: 30px;
+}
+
+.btn {
+    float: right;
+    background-color: violet;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+}
+
+#out {
+    width: 1200px;
+    margin: auto;
+}
+#hr{
+    width: 1200px;
+}
+#list{
+    list-style: none;
+    border-bottom: 1px solid lightgray;
+    color: gray;
+    padding-top: 20px;
+    padding-bottom:15px ;
+}
+#dlt{
+    border:none;
+    color: red;
+    margin: 5px;
+    padding: 2px;
+    float: right;
+    
+}
+#clrall{
+   margin-left: 500px;
+}
